@@ -1,0 +1,38 @@
+/* تعديل الشاشات  */
+/* @media(min-width:576px) small screen */
+/* @media(min-width:768px) tablate screen */
+/* @media(min-width:992px) large screen */
+/* @media(min-width:1200px) Xlarge screen */
+
+
+/* شاشة ال sm */
+@media(max-width:768px){
+    .skills h2{
+        text-align: center;
+        font-size: 25px !important;
+        margin-right: 63px!important ;
+          }
+          .soft-skill {
+              padding: 12px;
+              margin: -2px -58px;
+              font-size: 19px;
+              color: #000;
+      }
+      .copyright .icons{
+       
+        display: flex;
+        justify-content: start;
+    }
+    .pro{
+        padding: 6px;
+    }
+    .soft-skill span{
+        padding: 0px;
+    }
+    .soft-skill i{
+        margin-left:97px ;
+    }
+}
+@media(width:768px){
+
+}
